@@ -41,12 +41,6 @@ for (const u of users.users) {
 }
 ```
 
-## デモ
-
-```bash
-npx tsx examples/demo.ts
-```
-
 ## API
 
 ### `new Cookpad(options?)`
