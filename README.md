@@ -1,6 +1,6 @@
 # cookpad-ts
 
-Cookpad の非公開 API を叩く TypeScript クライアント。学習用です。一般公開しないでください。
+Cookpad の非公開 API を叩く TypeScript クライアント。
 
 Python 版 [cookpad-py](https://github.com/evex-dev/cookpad-py) の TypeScript リライト。
 
